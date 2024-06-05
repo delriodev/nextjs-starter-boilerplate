@@ -1,5 +1,5 @@
 import "../styles/globals.css"
-import { Work_Sans } from "@next/font/google"
+import { Work_Sans } from "next/font/google"
 
 // importing the Work Sans font with
 // the Next.js 13 Font Optimization Feature
